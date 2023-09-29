@@ -16,6 +16,6 @@ Then, evaluate the following expressions:
 17 * ( 2 + 3 ) + 4 + ( 8 * 5 ) = 833
    
 Exercise 2 (Palindromes)
-Implement a singly linked list. You should be able to insert a given string of characters into your list, where each character is a separate list element. Then, using previously implemented stack, check if this string is a palindrome.
+1. Implement a singly linked list. You should be able to insert a given string of characters into your list, where each character is a separate list element. Then, using previously implemented stack, check if this string is a palindrome.
 Evaluate your program on the following expression:
 12203022, 3120213
