@@ -12,7 +12,7 @@ The problem with these expressions is that someone reversed the priority of math
 
 3. Having converted the expressions to postfix notation, write a part of the program that evaluates them. Your program should take erroneous expressions as input and print the value.
 Then, evaluate the following expressions:
-( 3 * 6 + 2 ) + ( 14 / 3 + 4 ) = 26
+( 3 * 6 + 2 ) + ( 14 / 3 + 4 ) = 26,
 17 * ( 2 + 3 ) + 4 + ( 8 * 5 ) = 833
    
 Exercise 2 (Palindromes)
